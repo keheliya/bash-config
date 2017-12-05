@@ -1,4 +1,4 @@
 bash-config
 ===========
 
-Personal bash aliases and what not
+Personal bash aliases and what not.
